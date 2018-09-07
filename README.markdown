@@ -2,3 +2,4 @@
 
 ## Ideas
 
+![Case ideas](ideas.png)
