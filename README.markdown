@@ -1,5 +1,3 @@
 # Keyboard Case
 
-## Ideas
-
-![Case ideas](ideas.png)
+![](images/hero.jpg)
